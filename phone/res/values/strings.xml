@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">phone</string>
+    <string name="hello_world">Hello world!</string>
+<string name="name1">商品 1</string>
+<string name="jiage1">商品价格：30元</string>
+<string name="name2">商品 2</string>
+<string name="jiage2">数量 39</string>
+<string name="name3">可获得积分 15</string>
+<string name="jiage3">可获得积分 15</string>
+<string name="name4">商品 4</string>
+<string name="jiage4">描述：这是一个热销产品</string>
+</resources>

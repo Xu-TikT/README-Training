@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/login_bg_400_722"
+    android:orientation="vertical"
+    android:paddingLeft="20dip"
+    android:paddingRight="20dip" >
+
+    <ImageView
+        android:layout_width="99dip"
+        android:layout_height="99dip"
+        android:layout_gravity="center"
+        android:layout_marginBottom="40dip"
+        android:layout_marginTop="50dip"
+        android:src="@drawable/icon_personal" />
+    <EditText
+        android:id="@+id/id_login_name"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:layout_marginTop="5dip"
+        android:background="@drawable/edit_login_style"
+        android:drawableLeft="@drawable/phone_27_46"
+        android:drawablePadding="10dip"
+        android:hint="用户名"
+        android:maxLength="11"
+        android:paddingLeft="10dip"
+        android:singleLine="true"
+        android:text="1"
+        android:textColorHint="@color/white" />
+
+    <EditText
+        android:id="@+id/id_user_pass"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:layout_marginTop="5dip"
+        android:background="@drawable/edit_login_style"
+        android:drawableLeft="@drawable/key_35_46"
+        android:drawablePadding="9dip"
+        android:hint="密码"
+        android:maxLength="16"
+        android:paddingLeft="9dip"
+        android:password="true"
+        android:singleLine="true"
+        android:text="123456"
+        android:textColorHint="@color/white" />
+
+    <Button
+        android:id="@+id/id_user_login"
+        android:layout_width="match_parent"
+        android:layout_height="50dip"
+        android:layout_marginTop="30dip"
+        android:background="#fe2431"
+        android:text="登录"
+        android:textColor="#000000" />
+
+    <!-- <Button
+        android:id="@+id/id_user_reg"
+        android:layout_width="match_parent"
+        android:layout_height="40dip"
+        android:layout_marginBottom="10dip"
+        android:layout_marginTop="20dip"
+        android:background="#ffffff"
+        android:text="免费注册"
+        android:textColor="#000000" /> -->
+
+</LinearLayout>

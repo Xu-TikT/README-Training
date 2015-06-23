@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="c1">#ff6600</color>
+    <color name="white1">#40FFFFFF</color>
+    <color name="ff671c">#ff671c</color>
+    <color name="ff7010">#ff7010</color>
+    <color name="white">#FFFFFF</color>
+    <color name="orange">#ff6600 </color>
+    <color name="gray">#666666</color>
+    <color name="tran20white">#20FFFFFF</color>
+    <color name="tran00white">#00000000</color>
+    <color name="tran00bule">#70112a85</color>
+    <color name="transparent_new_1">#40000000</color>
+    
+    <color name="blue">#2196db</color>
+    <color name="red">#eb0000</color>
+    <color name="red2">#ff0000</color>
+    
+    
+    <color name="bg_activity">#F1F1F1</color>
+    <color name="bg_button_normal">#e96719</color>
+    <color name="bg_button_press">#ff671c</color>
+    <color name="et_border">#c1c1c1</color>
+    <color name="border">#DCDCDC</color>
+
+</resources>
